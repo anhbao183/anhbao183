@@ -12,7 +12,7 @@
 | # | Điểm trong kế hoạch gốc | Đánh giá | Cần sửa thành |
 |---|---|---|---|
 | 1 | Sinh hoạt 8–10 tr/tháng cho gia đình 3 người có trẻ sơ sinh | Quá thấp, nhất là ở thành phố | 12–15 tr/tháng |
-| 2 | Lãi vay 4,5 tr/tháng "nhẹ nhàng" | Đúng hôm nay, nhưng 5,4%/năm gần như chắc chắn là lãi suất ưu đãi. Chưa rõ có phải trả gốc hàng tháng không | Phải xác minh với ngân hàng trước khi sinh |
+| 2 | Lãi vay 4,5 tr/tháng "nhẹ nhàng" | Đã xác nhận: lãi chưa tăng, chưa phải trả gốc. Đúng cho hôm nay. Còn thiếu 2 mốc thời gian: ngày hết ưu đãi lãi và ngày bắt đầu trả gốc | Ghi 2 mốc đó vào lịch, lập kế hoạch trước 2 tháng |
 | 3 | Quỹ 150 tr đủ 10–12 tháng | Với chi phí thực 17–20 tr/tháng chỉ đủ 7–9 tháng | Đặt "hạn chót có thu nhập" ở tháng thứ 6 sau sinh |
 | 4 | Affiliate quay lại 15–20 tr sau 2–3 tháng | Hợp lý nếu đã có nền, nhưng là thu nhập biến động, phụ thuộc sàn | Chuẩn bị hạ tầng TRƯỚC khi sinh, có phương án B |
 
@@ -53,25 +53,28 @@ Kết luận: **lấy 18 tr/tháng làm con số kế hoạch**, không phải 1
 
 ---
 
-## 3. Việc phải xác minh ngay với ngân hàng
+## 3. Khoản vay: đã xác nhận và còn gì phải hỏi
 
-Đây là rủi ro lớn nhất nằm ngoài tầm nhìn của kế hoạch gốc. Gọi ngân hàng hoặc đọc lại hợp đồng, trả lời 5 câu:
+**Đã xác nhận:** lãi suất chưa tăng, vẫn 4,5 tr/tháng, và hiện chưa phải trả gốc. Đây là kịch bản A ở bảng dưới, cũng là kịch bản dùng cho toàn bộ mô phỏng ở mục 8. Kế hoạch 12 tháng đứng vững với điều kiện này.
 
-1. **Lãi suất 5,4% cố định đến ngày nào?** Sau ưu đãi, lãi thả nổi thường bằng lãi cơ sở cộng biên độ 3–4%, rơi vào 10–12%/năm.
-2. **Có phải trả gốc hàng tháng không?** Nếu vay 1 tỷ trong 20 năm, gốc khoảng 4,2 tr/tháng. Khi đó tiền trả ngân hàng thực tế là 8,7 tr chứ không phải 4,5.
-3. **Có đang trong thời gian ân hạn gốc không?** Nếu có, ân hạn hết khi nào.
-4. **Phí trả trước hạn** là bao nhiêu phần trăm, áp dụng trong mấy năm đầu.
-5. **Tài sản thế chấp** có liên quan gì đến công ty anh chị không.
+**Còn 2 câu phải biết chính xác ngày:**
+
+1. **Lãi ưu đãi kéo dài đến ngày nào?** "Chưa tăng" khác với "không tăng". Sau ưu đãi, lãi thả nổi thường bằng lãi cơ sở cộng biên độ 3–4%, rơi vào 10–12%/năm, tức 8–10 tr/tháng.
+2. **Bắt đầu trả gốc từ ngày nào, và trả kiểu gì?** Có 2 khả năng:
+   - Ân hạn gốc 1–2 năm, sau đó trả đều hàng tháng. Với 1 tỷ trong 20 năm, gốc khoảng 4,2 tr/tháng.
+   - Trả gốc một lần khi đáo hạn. Khi đó cần biết ngày đáo hạn để bắt đầu tích lũy, vì 1 tỷ không thể xoay trong vài tháng.
+
+Ngoài ra hỏi thêm **phí trả trước hạn** và xác nhận **tài sản thế chấp** không liên quan đến công ty anh chị.
 
 ### Ba kịch bản tiền trả ngân hàng
 
 | Kịch bản | Lãi/tháng | Gốc/tháng | Tổng/tháng | Chi phí cố định cả nhà |
 |---|---|---|---|---|
-| A. Như hiện tại | 4,5 | 0 | 4,5 | 18,0 |
+| **A. Hiện tại (đã xác nhận)** | 4,5 | 0 | 4,5 | 18,0 |
 | B. Hết ân hạn gốc | 4,5 | 4,2 | 8,7 | 22,2 |
 | C. Hết ưu đãi lãi, lãi 11% | 9,2 | 4,2 | 13,4 | 26,9 |
 
-Nếu kịch bản C xảy ra trong 12 tháng tới, quỹ 150 tr chỉ đủ khoảng 5,5 tháng khi không có thu nhập. Vì vậy **ngày hết ưu đãi lãi suất là mốc quan trọng nhất của cả kế hoạch**, cần biết chính xác.
+Quy tắc: **trước mỗi mốc chuyển kịch bản 2 tháng**, xem lại ngân sách và so sánh lãi suất với ngân hàng khác để cân nhắc đảo nợ. Nếu cả hai mốc đều cách hơn 12 tháng, kế hoạch này không cần chỉnh gì thêm.
 
 ---
 
@@ -133,7 +136,7 @@ Kế hoạch gốc không nhắc đến vợ có đi làm lại không, khi nào
 Đây là giai đoạn duy nhất bạn còn thời gian rảnh. Làm hết việc chuẩn bị ở đây.
 
 **Tuần 1: Chốt số liệu**
-- [ ] Gọi ngân hàng, trả lời 5 câu ở mục 3. Ghi ngày hết ưu đãi lãi suất vào lịch.
+- [ ] Hỏi ngân hàng 2 mốc ở mục 3: ngày hết ưu đãi lãi và ngày bắt đầu trả gốc. Ghi cả hai vào lịch, đặt nhắc trước 2 tháng.
 - [ ] Ghi lại chi tiêu thực 1 tháng gần nhất để thay số ước lượng ở mục 2.
 - [ ] Vợ chồng thống nhất chọn bệnh viện và mức viện phí.
 - [ ] Hỏi vợ về BHXH, BHYT, trợ cấp thai sản.
@@ -258,7 +261,7 @@ Kịch bản xấu (kịch bản C ở mục 3, affiliate chỉ đạt một n�
 
 ## 10. Checklist tổng hợp việc cần làm tuần này
 
-- [ ] Gọi ngân hàng, hỏi 5 câu ở mục 3
+- [ ] Hỏi ngân hàng ngày hết ưu đãi lãi và ngày bắt đầu trả gốc, ghi vào lịch
 - [ ] Mở 3 tài khoản, tách 50 / 150 / 100
 - [ ] Gửi 100 tr kỳ hạn 6 tháng, 150 tr kỳ hạn 1 tháng
 - [ ] Kiểm tra BHYT và BHXH thai sản của vợ
