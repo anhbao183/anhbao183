@@ -1,5 +1,7 @@
 # Kế hoạch tài chính 12 tháng: đón con gái đầu lòng
 
+> Kế hoạch tạo thu nhập chi tiết nằm ở file riêng: `ke-hoach-dong-tien-thu-2.md`.
+
 > Đánh giá tính khả thi của kế hoạch phân bổ 300 triệu, kèm lộ trình từng bước.
 > Đơn vị: triệu đồng (tr). Số liệu chi phí là ước lượng phổ biến tại Việt Nam năm 2026, cần thay bằng số thực tế của gia đình.
 
